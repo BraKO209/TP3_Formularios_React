@@ -3,7 +3,7 @@
 📚 Universidad Tecnológica Nacional – Facultad Regional La Rioja  
 📘 Materia: Programación III  
 👨‍🏫 Profesor: Ing. Matías De la Puente  
-👨‍💻 Alumno: [Tu Nombre]
+👨‍💻 Alumno: Merlo Brac Federico
 
 ---
 
